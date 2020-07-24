@@ -6,4 +6,4 @@ The #100DaysOfCode and I think that why not learn more about git and github. So 
 
 And Continue Learning.
 
-### That is all for today..!! Lesson Completed !!.
+### That is all ..!! Lesson Completed !!.
